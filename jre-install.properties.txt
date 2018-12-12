@@ -1,0 +1,4 @@
+INSTALL_SILENT=Enable
+INSTALLDIR=C:\Java\jre
+STATIC=Enable
+AUTO_UPDATE=Disable
